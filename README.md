@@ -136,18 +136,6 @@ Principais contribuições:
 > Parte desse trabalho deu origem ao projeto [TK System](https://github.com/HenriqueNeimog/project-tk-system).
 
 
-## 📊 GitHub
-
-<div align="center">
-
-![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueNeimog&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueNeimog&layout=compact&hide_border=true&theme=transparent)
-
-</div>
-
----
-
 ## 📫 Contato
 
 Estou sempre aberto a conversar sobre **desenvolvimento de software, arquitetura, backend e novos projetos**.
